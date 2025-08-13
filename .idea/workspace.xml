@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39345093-14b1-49d3-9ae1-b1b5cf7d655c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/corejava_tns/Data_types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava_tns/Data_types.java" afterDir="false" />
-    </list>
+    <list default="true" id="39345093-14b1-49d3-9ae1-b1b5cf7d655c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Built_in_example.executor": "Run",
+    "Application.Data_types.executor": "Run",
     "Application.Variable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
