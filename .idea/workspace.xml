@@ -32,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AbstractionDemo.executor": "Run",
+    "Application.AfterEncapsulation.executor": "Run",
     "Application.Built_in_example.executor": "Run",
     "Application.Data_types.executor": "Run",
     "Application.Fooditem.executor": "Run",
