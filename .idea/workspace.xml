@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39345093-14b1-49d3-9ae1-b1b5cf7d655c" name="Changes" comment="" />
+    <list default="true" id="39345093-14b1-49d3-9ae1-b1b5cf7d655c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/oops/MethodOverridingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/MethodOverridingDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
     "Application.Built_in_example.executor": "Run",
     "Application.Data_types.executor": "Run",
     "Application.Fooditem.executor": "Run",
+    "Application.HierarchicalInheritance.executor": "Run",
     "Application.Typecasting.executor": "Run",
     "Application.Variable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
